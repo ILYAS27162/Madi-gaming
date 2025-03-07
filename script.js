@@ -1,8 +1,8 @@
 function gacha() {
     let hadiah = [
-        { nama: "Ilyas jago epep", chance: 5 },   // Paling langka (5%)
-        { nama: "SG epep", chance: 15 },         // 15%
-        { nama: "Epep", chance: 25 },           // 25%
+        { nama: "MADI", chance: 5 },   // Paling langka (5%)
+        { nama: "URIP", chance: 15 },         // 15%
+        { nama: "HAMIM", chance: 25 },           // 25%
         { nama: "Garena epep", chance: 25 },    // 25%
         { nama: "Alok epep", chance: 30 }       // Paling mudah (30%)
     ];
